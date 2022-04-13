@@ -1,0 +1,10 @@
+@font-face {
+ font-family: "AntarcticaBeta-CnXBdContrast"; src: url(https://nhlblackhawks.github.io/memberships/AntarcticaBeta-CnXBdContrast.woff2) format("woff2"),src: url(https://nhlblackhawks.github.io/memberships/AntarcticaBeta-CnXBdContrast.otf) format("openface");}
+	
+	 
+@font-face {
+ font-family: "AntarcticaBeta-CondensedBold"; src: url(https://nhlblackhawks.github.io/memberships/AntarcticaBeta-CondensedBold.woff2) format("woff2"),src: url(https://nhlblackhawks.github.io/memberships/AntarcticaBeta-CnXBdContrast.otf) format("openface");}
+	 
+	 
+@font-face {
+ font-family: "AntarcticaBeta-Regular"; src: url(https://nhlblackhawks.github.io/memberships/AntarcticaBeta-Regular.woff2) format("woff2"),src: url(https://nhlblackhawks.github.io/memberships/AntarcticaBeta-CnXBdContrast.otf) format("openface");}
