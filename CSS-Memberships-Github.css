@@ -20,7 +20,7 @@
 
 @font-face {
   font-family:AntarcticaBeta-Regular;
-  src: url(https://nhlblackhawks.github.io/memberships/AntarcticaBeta-CnXBdContrast.otf) format("openface");
+  src:url(https://nhlblackhawks.github.io/memberships/AntarcticaBeta-CnXBdContrast.otf) format("openface");
   src:url(https://nhlblackhawks.github.io/memberships/fonts/AntarcticaBeta-Regular.eot);
   src:url(https://nhlblackhawks.github.io/memberships/fonts/AntarcticaBeta-Regular.eot?#iefix) format("embedded-opentype");
   src:url(https://nhlblackhawks.github.io/memberships/fonts/AntarcticaBeta-Regular-2.woff2) format("woff2");
